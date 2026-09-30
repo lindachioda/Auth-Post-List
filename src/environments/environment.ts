@@ -1,4 +1,4 @@
 
 export const environment = {
-  apiUrl: 'https://TUO-JSON-SERVER-ONLINE'
+  apiUrl: 'https://auth-post-list-api.onrender.com'
 }
