@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et vel",
+      "title": "PRIMO POST",
+      "active": true,
+      "type": "news",
+      "author": "Linda"
+    },
+    {
+      "id": 2,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et vel",
+      "title": "SECONDO POST",
+      "active": true,
+      "type": "education",
+      "author": "Sara"
+    },
+    {
+      "id": 3,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et vel",
+      "title": "TERZO POST",
+      "active": true,
+      "type": "news",
+      "author": "Riccardo"
+    },
+    {
+      "id": 4,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et vel",
+      "title": "QUARTO POST",
+      "active": false,
+      "type": "politic",
+      "author": "Linda"
+    },
+    {
+      "id": 5,
+      "body": "Sit minim deserunt enim enim nisi. Eiusmod incididunt dolore et ea anim. Non exercitation id voluptate et vel",
+      "title": "QUINTO POST",
+      "active": false,
+      "type": "politic",
+      "author": "Goku"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Carlo",
+      "email": "carlo.carlo@carlo.carlo",
+      "ruolo": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Paola",
+      "email": "sonopaola@io.comm",
+      "ruolo": "user"
+    },
+    {
+      "name": "Linda",
+      "ruolo": "admin",
+      "email": "linda@io.com",
+      "password": "lindaio",
+      "id": 3
+    },
+    {
+      "name": "Lind",
+      "ruolo": "user",
+      "email": "linda@io.com",
+      "password": "lindalinda",
+      "id": 4
+    },
+    {
+      "name": "Ioooo",
+      "ruolo": "admin",
+      "email": "lindaio@io.it",
+      "password": "sonoio",
+      "id": 5
+    }
+  ]
+}

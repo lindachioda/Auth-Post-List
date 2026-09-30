@@ -1,0 +1,36 @@
+
+
+
+.card {
+    max-width: 500px;
+    margin: 50px auto;
+}
+
+.news {
+    background-color: rgb(244 211 80);
+}
+
+.politic {
+    background-color: rgba(0, 0, 0, 0.811);
+    color: white;
+}
+
+.education {
+    background-color: rgb(91 163 243 / 78%);
+}
+
+.title {
+    font-weight: 700;
+}
+
+button {
+    margin-left: 20px;
+    background-color:rgba(24, 134, 24, 0.776)!important;
+    border:3px solid rgb(24, 134, 24);
+}
+
+@media (max-width:568px) {
+    .card{
+        width: 280px
+    }
+}

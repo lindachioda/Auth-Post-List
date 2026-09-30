@@ -1,0 +1,19 @@
+
+.detail-container {
+    margin: 150px;
+}
+
+h4 {
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color:#015b01e9;
+}
+
+@media (max-width:668px) {
+    .detail-container {
+    margin: 150px 35px;
+   }
+}

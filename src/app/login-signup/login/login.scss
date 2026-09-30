@@ -1,0 +1,35 @@
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 50px auto;
+}
+
+button {
+    background-color:rgba(24, 134, 24, 0.776)!important;
+    border:3px solid rgb(24, 134, 24);
+    margin-top: 30px;
+}
+
+@media (max-width:668px) {
+    form {
+        width: 250px;
+    }
+}
+
+p {
+    font-size: 1.8em;
+    font-weight: 700;
+    width:200px;
+    text-align: center;
+    margin: 30px auto;
+    color: rgba(18, 193, 76, 0.66);  
+}
+
+h6 {
+    margin-top: 30px;
+    font-size: 0.8em;
+    text-align: center;
+}

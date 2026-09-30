@@ -1,0 +1,19 @@
+ <p *ngIf="message">{{message}}</p> <!--va chiamato anche qui per leggerlo nel dom-->
+
+<form #formlogin="ngForm" (ngSubmit)="onSubmitLog(formlogin)">
+
+<div class="form-floating mb-3">
+  <input type="email" name="email" ngModel class="form-control" id="floatingEmail" placeholder="name@example.com">
+  <label for="floatingEmail">Email address</label>
+</div>
+
+<div class="form-floating">
+  <input type="password" name="password" ngModel class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
+</div>
+
+<button type="submit" class="btn btn-primary">Accedi</button>
+
+<h6>Inserisci le tue credenziali per poter accedere alla sezione <span [appHighlight]="`lightgreen`">"Users"</span></h6>
+
+</form>
