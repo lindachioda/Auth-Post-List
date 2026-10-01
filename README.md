@@ -11,17 +11,9 @@
 * SCSS
 * Bootstrap
 * RxJS
-* Fake REST API / JSON Server
-* Angular Router
-* Angular Forms
-* HTTP Client
-* Route Guards
-* Lazy Loading
-* Shared Module
-* Authentication & Token-based Authorization
-* Local Storage
-* Git & GitHub
-
+* Fake REST API 
+* JSON Server
+* Angular 
   
 # 🔐 Angular Post List – Authentication
 
